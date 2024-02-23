@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabWork_Rodin</string>
+    <string name="main_button1">Популярные</string>
+    <string name="main_button2">Избранное</string>
+    <string name="background_button1" />
+
+</resources>
